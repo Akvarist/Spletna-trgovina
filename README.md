@@ -3,6 +3,7 @@ Spletna-trgovina
 Spletna trgovina z uporabo angularja. Planirana je uporaba REST konceptov vendar zaradi še nedokončanega API to ni mogoče.
 
 -uporaba Angular, typescript, HTML/CSS
+-za monitorje večje od 1900/1200px html stran ni testirana.
 # Front-end Angular projekt
 -Angular spletna trgovina 
 -NEDOKONČANI DEL (Api in podatkovna baza s katero bi spletna stran komunicirala, logiranje uporabnikov)
